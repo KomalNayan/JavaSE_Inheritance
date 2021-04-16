@@ -2,6 +2,7 @@ package com.komalnayangalla_c0779428.employee;
 
 import com.komalnayangalla_c0779428.Gender;
 import com.komalnayangalla_c0779428.IDisplay;
+import com.komalnayangalla_c0779428.NoIDException;
 import com.komalnayangalla_c0779428.Person;
 
 public class Employee extends Person implements IDisplay {

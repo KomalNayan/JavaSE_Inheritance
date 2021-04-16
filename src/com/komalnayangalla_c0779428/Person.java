@@ -8,7 +8,7 @@ public class Person implements IDisplay
     public String lastName;
     public Gender gender;
 
-    public Person(int id, String firstName, String lastName, Gender gender) {
+    public Person(int id, String firstName, String lastName, Gender gender){
         this.id = id;
         this.firstName = firstName;
         this.lastName = lastName;
